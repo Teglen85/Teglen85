@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am just starting to learn how to use html and CSS, because I was bored. Essentially, I'm just doing a bit of trial and error, seeing what works or not.
+I'm sure this will evolve eventually, but so far I am enjoying myself.
+
+Not particularly looking for help or advice at this point, but that may change as time goes on.
+
 <!--
 **Teglen85/Teglen85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
